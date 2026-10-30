@@ -1,0 +1,8 @@
+# The original face-image data is intentionally kept outside the public repository
+faces_db/
+data/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
